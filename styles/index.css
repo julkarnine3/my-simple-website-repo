@@ -1,6 +1,16 @@
+
+h1{
+   background-color: burlywood; 
+}
+#my_title{
+    color: red; 
+    font-size: larger; 
+    font-style: oblique; 
+    font-weight: bold;
+}
 div{
 
-    background-color: tomato;
+    background-color: blanchedalmond;
     padding: 10px;
     background-size: 20%;
     margin: 10px;
